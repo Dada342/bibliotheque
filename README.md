@@ -29,6 +29,8 @@ bibliotheque/
 1. Cloner le repository : `git clone https://github.com/Dada342/bibliotheque.git`
 2. Aller dans le dossier : `cd bibliotheque`
 3. Installer les dépendances : `yarn install`
+4. Installer mongoose : `yarn add mongoose`
+
 
 ### Étape 2 : Configuration de la Base de Données
 
