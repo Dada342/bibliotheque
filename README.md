@@ -31,7 +31,6 @@ bibliotheque/
 3. Installer les dépendances : `yarn install`
 4. Installer mongoose : `yarn add mongoose`
 
-
 ### Étape 2 : Configuration de la Base de Données
 
 1. Créer une base de données nommée `bibliotheque`
